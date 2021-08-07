@@ -1,0 +1,17 @@
+
+{
+  "minVersion": "0.8",
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "spriggans.refmap.json",
+  "package": "net.mehvahdjukaar.spriggans.mixins",
+  "mixins": [
+    "BlockMixin"
+
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

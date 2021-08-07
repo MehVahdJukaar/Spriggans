@@ -1,0 +1,6 @@
+{
+    "parent": "spriggans:item/spriggan_bow",
+    "textures": {
+        "layer0": "spriggans:items/spriggan_bow_pulling_0"
+    }
+}

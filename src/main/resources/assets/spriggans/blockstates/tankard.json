@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "spriggans:block/tankard"
+    },
+    "facing=east": {
+      "model": "spriggans:block/tankard",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "spriggans:block/tankard",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "spriggans:block/tankard",
+      "y": 270
+    }
+  }
+}
